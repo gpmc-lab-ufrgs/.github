@@ -1,1 +1,2 @@
-# .github
+# 💫 About GPMC:
+The Atlas 🌎 of Opportunities is an open-source project materialized into a free decision-support website aimed at helping entrepreneurs, companies, governments, and other interested parties identify business opportunities. The project combines various data sources, processed with spatial data science and artificial intelligence algorithms. The Atlas translates the most advanced scientific theories and methods from the fields of management, statistics, and computer science into a simple, intuitive, and interactive website focused on job creation, income generation, and fostering sustainable economic development.
