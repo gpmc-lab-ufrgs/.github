@@ -1,4 +1,10 @@
 # 💫 About GPMC:
+Established in 2010 by the current coordinator Professor Vinicius Andrade Brei the Research Group on Marketing and Consumption (GPMC) main goal is the generation and dissemination of marketing and consumer behavior knowledge. Based on theories and multidisciplinar methodolgies the Research Group seeks academic and managerial improvment with cutting-edge information. GPMC is composed by Professors and Students from doctoral and master programs, as well as specialization and undergraduates. Many publications in scientific journals and conferences, in Brazil and abroad, have been generated from our researches.
+
+# 📈 Projects
+
+## Atlas
+
 The Atlas 🌎 of Opportunities is an open-source project materialized into a free decision-support website aimed at helping entrepreneurs, companies, governments, and other interested parties identify business opportunities. The project combines various data sources, processed with spatial data science and artificial intelligence algorithms. The Atlas translates the most advanced scientific theories and methods from the fields of management, statistics, and computer science into a simple, intuitive, and interactive website focused on job creation, income generation, and fostering sustainable economic development.
 
 # 💻 Tech Stack:
